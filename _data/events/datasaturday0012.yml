@@ -18,7 +18,6 @@ registrationurl: https://data-saturday-sofia.eventbrite.com/
 join:
   description: Click on the room you want to join. You can change room at any time to attend the sessions that you prefer.
   rooms:
-rooms:
     - name: Keynote Hall
       url: https://redgate.zoom.us/j/5547753958?pwd=Z2ZxK244amU1b2NwMXREVG9hSnJaZz09
     - name: PowerShell Special
