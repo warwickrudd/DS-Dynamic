@@ -1,0 +1,25 @@
+name: "Data Saturday #13 Atlanta"
+date: 2021-05-22 08:00:00 -0400
+
+description: "Test event created by Elizabeth Noble. <br> I hope we can have a great event where everyone feels like the belong."
+
+registrationurl:
+join:
+  description: We have some cool sessions today. Check out the rooms below to find the right session.
+  rooms:
+    - name: Room 10E
+      url: you can add more rooms if you have a virtual event. You can remove these if you do not know yet.
+
+scheduleurl:
+
+sponsors:
+  - link: https://dbatools.io
+
+
+speakerlisturl: 
+callforspeakers:  true
+
+volunteerrequesturl: 
+organizers:
+  - name: Elizabeth Noble
+    twitter: https://twitter.com/sqlzelda
