@@ -6,19 +6,27 @@ description: " This is the description for my awesome beard event.
 It takes place on 22nd December 2021
 <br><br>
 It will be held at this address
+
+Thank you - Please take a look at our fantastic schedule
 "
 registrationurl: blog.robsewell.com
 join:
   description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/zj4czc5p/view/GridSmart
 
 sponsors:
+  - link: https://quantumdatis.com
+    image: ../assets/img/events/0001/quantumdatis_path.svg
+    height: 100
+  - link: https://www.alphasys.it/
+    image: ../assets/img/events/0001/alphasys-stacked-blue-transparent-_720x720_round.png
+    height: 65
 
-speakerlisturl: sessionize.com/rob-sewell
-callforspeakers:  true 
+speakerlisturl: https://sessionize.com/api/v2/zj4czc5p/view/Speakers
+callforspeakers:  false 
 
-volunteerrequesturl: mailto:helpers@sqlbits.com
+volunteerrequesturl:
 organizers:
   - name: Beardy McBeardFace
     twitter: https://twitter.com/sqldbawithbeard
