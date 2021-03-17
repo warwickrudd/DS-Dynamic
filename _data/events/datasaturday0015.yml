@@ -1,0 +1,25 @@
+name: "Data Saturday #15 - Awesome Beard"
+date: 2021-12-22 09:00:00 -0000
+
+description: " This is the description for my awesome beard event. 
+<br><br>
+It takes place on 22nd December 2021
+<br><br>
+It will be held at this address
+"
+registrationurl: blog.robsewell.com
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+
+scheduleurl: 
+
+sponsors:
+
+speakerlisturl: sessionize.com/rob-sewell
+callforspeakers:  true 
+
+volunteerrequesturl: mailto:helpers@sqlbits.com
+organizers:
+  - name: Beardy McBeardFace
+    twitter: https://twitter.com/sqldbawithbeard
+    email: 
