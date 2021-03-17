@@ -1,0 +1,26 @@
+name: "Data Saturday #14 Beard"
+date: 2021-12-22 09:00:00 -0000
+
+description: " This is the fantastic Beard Event for demonstrating the creation 
+<br>
+
+Remmeber to escape all the quotes
+
+"
+registrationurl: https://blog.robsewell.com
+join:
+  description: Click on the room you want to join. You can change rooms at any time to attend the sessions that you prefer.
+
+
+scheduleurl: 
+
+sponsors:
+
+speakerlisturl: blog.robsewell.com
+callforspeakers:  true 
+
+volunteerrequesturl: helpers@sqlbits.com
+organizers:
+  - name: Beard
+    twitter: https://twitter.com/sqldbawithbeard
+    email: 
